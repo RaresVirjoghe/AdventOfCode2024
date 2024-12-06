@@ -1,8 +1,8 @@
 package main
 
 import (
-	"RaresVirjoghe/AdventOfCode2024/day1/pkg/handleinput"
-	"RaresVirjoghe/AdventOfCode2024/day1/pkg/solve"
+	"github.com/RaresVirjoghe/AdventOfCode2024/day1/pkg/handleinput"
+	"github.com/RaresVirjoghe/AdventOfCode2024/day1/pkg/solve"
 	"fmt"
 )
 
